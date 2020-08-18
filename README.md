@@ -2,11 +2,11 @@
 
 # Create an Android app that inputs the name and average mark of a student using EditText widgets and then it displays the name and grade of the student in a TextView according to the table below after a push/click of a button. In your solution, include the activity, manifest, layout and string files
 
-MARK GRADE
-0-49 Fail
-50-64 C
-65-74 B
-75-100 A
+1. MARK GRADE
+2. 0-49 Fail
+3. 50-64 C
+4. 65-74 B
+5. 75-100 A
 
 # Write an Android application that inputs the nth number and then computes the sum from 1 to the nth number as shown below. Your program should include the Java code, layout XML code and string values
 
